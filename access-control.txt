@@ -1,0 +1,16 @@
+=== LRIF3001KA / udid=C04DBA955F704E27927417EA81B0EC1A
+    Pin -> CredentialCapabilities(deviceId=null, isExternal=false, supportedOperations={BLE=[Add, Update, Remove], WIFI=[Add, Update, Remove]}, supportsSchedules=Available, maxCount=500, status=Enabled)
+
+=== LIIAZ001FX / udid=2DFC4D18D4FC47CE9B5E6D16FFA23B3C
+    Pin -> CredentialCapabilities(deviceId=null, isExternal=false, supportedOperations={BLE=[Add, Update, Remove], WIFI=[Add, Update, Remove]}, supportsSchedules=Available, maxCount=500, status=Enabled)
+
+=== LKIEF0000J / udid=3180DB9417AC4DE39D98A84C74A0B36D
+    Pin -> CredentialCapabilities(deviceId=null, isExternal=false, supportedOperations={BLE=[Add, Update, Remove], WIFI=[Add, Update, Remove]}, supportsSchedules=Available, maxCount=500, status=Enabled)
+    Fingerprint -> CredentialCapabilities(deviceId=null, isExternal=false, supportedOperations={BLE=[Add, Update, Remove], WIFI=[Remove]}, supportsSchedules=Unavailable, maxCount=20, status=Enabled)
+
+=== LFI4Y000U6 / udid=F68FC25833C74A31A3C904DFD355FCC3
+    Pin -> CredentialCapabilities(deviceId=null, isExternal=false, supportedOperations={BLE=[Add, Update, Remove]}, supportsSchedules=Unavailable, maxCount=500, status=Enabled)
+
+=== LFI4Y001J2 / udid=AF440B34AACD45C2BDEDF61245793B9C
+    Pin -> CredentialCapabilities(deviceId=null, isExternal=false, supportedOperations={BLE=[Add, Update, Remove], WIFI=[Add, Update, Remove]}, supportsSchedules=WifiRequired, maxCount=500, status=Enabled)
+
